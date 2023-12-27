@@ -3,7 +3,7 @@
 ## Overview
 This app mirrors Instagram's functionality, allowing users to create, edit, delete, save, and manage posts, as well as edit their profiles.
 
-## 1. ⚙️ Tech Stack
+## 1.  Tech Stack Used:
 
    - **React.js**
    - **Appwrite**
